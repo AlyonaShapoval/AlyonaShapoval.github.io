@@ -1,0 +1,48 @@
+h1{
+    font-family: 'Festive', cursive;
+    text-align: center;
+}
+
+body{
+    background: -webkit-linear-gradient(45deg, rgb(154, 178, 207) 20%, rgb(140, 223, 226));
+    background: -moz-linear-gradient(45deg, rgb(154, 178, 207) 20%, rgb(140, 223, 226));
+        background: linear-gradient(45deg, rgb(154, 178, 207) 20%, rgb(140, 223, 226));
+}
+table{
+    border: 3px solid black;
+    width: 100%;
+    border-collapse: collapse;
+    height: 90vh;
+    }
+
+th{
+    font-size: 50px;
+    text-align: center;
+    border: 3px solid black;
+}
+td{
+    text-align: center;
+    border: 3px solid black;
+    font-size: 30px;
+}
+td:hover{
+    color: white;
+    border: 3px solid white;
+    background: -webkit-linear-gradient(135deg, rgb(182, 154, 207) 20%, rgb(177, 233, 235));
+    background: -moz-linear-gradient(135deg, rgb(182, 154, 207) 20%, rgb(177, 233, 235));
+    background: linear-gradient(135deg, rgb(182, 154, 207) 20%, rgb(177, 233, 235));
+}
+th:hover{
+    color: white;
+    border: 3px solid white;
+    background: -webkit-linear-gradient(135deg, rgb(182, 154, 207) 20%, rgb(177, 233, 235));
+    background: -moz-linear-gradient(135deg, rgb(182, 154, 207) 20%, rgb(177, 233, 235));
+    background: linear-gradient(135deg, rgb(182, 154, 207) 20%, rgb(177, 233, 235));
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: white;
+}

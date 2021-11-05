@@ -1,0 +1,24 @@
+ul{
+    list-style: square;
+}
+ul>li:nth-child(1){
+    color: tomato;
+}
+ul>li:nth-child(2){
+    color:blueviolet;
+}
+ul>li:nth-child(3){
+    color: rgb(28, 196, 118);
+}
+.shadow{
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    -webkit-box-shadow: 5px 5px 15px 5px #63E4F3; 
+box-shadow: 5px 5px 15px 5px #63E4F3;
+}
+.shadow>p{
+    color: #FFFFFF;
+background: #0fa6ac;
+text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+}

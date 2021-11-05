@@ -1,0 +1,22 @@
+body{
+    background-color: darkseagreen;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border: gold 10px solid;
+    border-radius: 100%;
+}
+h1{
+    font-family: 'Ephesis', cursive;
+}
+.first{
+    width: 300px;
+    height: 400px;
+    background: -webkit-linear-gradient(270deg, rgb(45, 211, 173) 27%, rgb(82, 100, 182));
+    background: -moz-linear-gradient(270deg, rgb(45, 211, 173) 27%, rgb(82, 100, 182));
+    background: linear-gradient(270deg, rgb(45, 211, 173) 27%, rgb(82, 100, 182));
+}
+a{
+    list-style: none;
+}
