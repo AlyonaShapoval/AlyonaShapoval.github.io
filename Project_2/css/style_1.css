@@ -1,0 +1,18 @@
+body{
+    background-color: darkseagreen;
+}
+img{
+
+    width: 800px;
+    height: 600px;
+    border: gold 10px solid;
+    margin: 0 auto;
+    display: block;
+}
+h1{
+    font-family: 'Ephesis', cursive;
+}
+
+a{
+    list-style: none;
+}
